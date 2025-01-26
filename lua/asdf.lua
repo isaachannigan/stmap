@@ -1,0 +1,1 @@
+print "loaded asdf.lua"
